@@ -33,7 +33,7 @@
 ## Build Manually
 
   ```
-  git clone https://github.com/jefsg/traceroute-exporter.git
+  git clone https://github.com/17520510319/traceroute-exporter.git
   go get .
   go build .
   ```
